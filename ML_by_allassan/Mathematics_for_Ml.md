@@ -11,5 +11,5 @@
 
 #### Properties of matrices
 - given a matrix `A` or dimension `mxk` and a matrix `B` of dimension `kxn`, the only matrix that can be performed is multiplication `AB` to have dimension `mxn`.
-- The hammadard matrix multiplication is perform element-wise and is given by $`\C_{ij}=A_{ij}*B_{ij}`$
+- The hammadard matrix multiplication is perform element-wise and is given by `$`\C_{ij}=A_{ij}*B_{ij}`$`
 - If a matrix is invertible we call it `a non-singular matirx`
